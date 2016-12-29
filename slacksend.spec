@@ -1,7 +1,7 @@
 Summary:	Sends messages to Slack's incoming webhooks via CLI
 Name:		slacksend
 Version:	0.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Applications/Networking
 Source0:	https://pypi.python.org/packages/source/s/slacksend/%{name}-%{version}.tar.gz
